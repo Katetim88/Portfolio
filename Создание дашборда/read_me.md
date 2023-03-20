@@ -6,3 +6,4 @@
 автономную работу через crontab. Для визуализации собранных данных я построила дашборд. По
 результатам была подготовлена презентация с полученными графиками.
 - Технологии: Python, SQLAlchemy, PostgreSQL, dash, Tableau.
+- [Дашборд](https://public.tableau.com/views/DashboardYandexdzen/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
