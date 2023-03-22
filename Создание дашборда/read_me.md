@@ -7,3 +7,4 @@
 результатам была подготовлена презентация с полученными графиками.
 - Технологии: Python, SQLAlchemy, PostgreSQL, dash, Tableau.
 - [Дашборд](https://public.tableau.com/views/DashboardYandexdzen/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Презентация](https://github.com/Katetim88/Portfolio/blob/main/Создание%20дашборда/Анализ%20взаимодействия%20пользователей%20с%20карточками%20Яндекс%20Дзен.pdf)
